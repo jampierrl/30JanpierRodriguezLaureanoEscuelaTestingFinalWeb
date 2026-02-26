@@ -36,7 +36,7 @@ El objetivo es validar escenarios de **happy path** y **unhappy path** relaciona
 - Maven 3.6 o superior.
 - Navegador Chrome.
 - Configuración de credenciales de inicio de sesion en "serenity.conf".
-- 
+
 ### Ejecutar de la siguiente manera
 1. Run en la clase SauceRunner, se ejecutan sucesivamente los casos.
 2. Ejecutar cada caso en features/SauceSearch.feature.
